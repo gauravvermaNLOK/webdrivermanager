@@ -33,13 +33,7 @@ Conclusion:
 
 WebDriverManager empowers you to focus on writing robust test scripts while letting it handle the complexities of browser driver management. This translates to increased efficiency, reduced maintenance overhead, and ultimately, more reliable Selenium automation.
 
-Maven Dependancy of WebDriverManager:
-<dependency>
-		    <groupId>io.github.bonigarcia</groupId>
-		    <artifactId>webdrivermanager</artifactId>
-		    <version>5.9.2</version>
-		    <scope>test</scope>
-</dependency>
+Maven Dependancy of WebDriverManager: https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager/5.9.2
 
 Reference:
 1. Official Documentation of WebDriverManager
